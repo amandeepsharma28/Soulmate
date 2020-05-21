@@ -1,6 +1,7 @@
 # Soulmate
-Dating Website
-Soulmate
+
+## PHP, JavaScript, HTML5, CSS3 and PHPMyAdmin
+
 -It is a Dating Site to find the perfect match from the registered users.
 
 -A user can login to the site if he/she is registered.
@@ -11,13 +12,18 @@ Soulmate
 
 -A user can send a wink to the other member.
 
-Languages And Technologies Used
--PHP
+-Front end for this website is developed using JavaScript, HTML5, and CSS3
 
--HTML5
+- For backend of the website, PHP is used and Databases is built using the PHPMyAdmin.
 
--CSS3
+## What I did
+-This website was developed by team of three members.
 
--JavaScript
+-designed the front end for this website. So, I worked with HTML5, CSS3 and JavaScript
 
--PHPMyAdmin
+## Team
+-Amandeep Sharma
+
+-Chandra Sekhar
+
+-Amal Vijay
